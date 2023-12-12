@@ -1,3 +1,5 @@
+![profile views](https://komarev.com/ghpvc/?username=risknu)
+
 # Hello, everyone!👋
 Greetings to all! I'm a Python programmer, and I'm 14 years old. I enjoy creating various things, and I'm also an Arduino enthusiast. I love working with technology and building everyday computers and various circuits. I'm passionate about designing programming languages, though I'm still learning to write them, so they might not be super advanced, but they get the job done!
 
