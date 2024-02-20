@@ -1,4 +1,4 @@
-# Hello, everyone!👋 ![kata](https://www.codewars.com/users/risknu_go/badges/micro)
+# Hello, everyone!👋 ![kata](https://www.codewars.com/users/risknu_/badges/micro)
 Greetings to all! I'm a Python programmer, and I'm 14 years old. I enjoy creating various things, and I'm also an Arduino enthusiast. I love working with technology and building everyday computers and various circuits. I'm passionate about designing programming languages, though I'm still learning to write them, so they might not be super advanced, but they get the job done!
 
 You can always join me and collaborate on projects together. I'm always open to it.
